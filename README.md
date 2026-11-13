@@ -34,3 +34,6 @@ Mars Kolonisi projesi, insanlığın gelecekte başka gezegenlerde yaşayabilme 
 **Proje:** Mars Kolonisi  
 **Kategori:** Uzay ve Teknoloji  
 **Platform:** GitHub
+## 🎬 Proje Videosu
+
+[Mars Kolonisi Videosunu İzle](mars_kolonisi.mp4)
