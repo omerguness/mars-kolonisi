@@ -14,7 +14,7 @@ Mars Kolonisi, gelecekte Mars gezegeninde insan yaşamının nasıl mümkün ola
 ## 🎥 Proje Videosu
 Bu depoda Mars Kolonisi projesine ait video bulunmaktadır.
 
-**Video dosyası:** `mars_kolonisi_20mb.mp4`
+**Video dosyası:** `mars_kolonisi.mp4`
 
 ## 🌍 Proje Konusu
 - Mars'ta yaşam alanları
@@ -24,7 +24,7 @@ Bu depoda Mars Kolonisi projesine ait video bulunmaktadır.
 - Geleceğin uzay yerleşimleri
 
 ## 📁 Dosyalar
-- `mars_kolonisi_20mb.mp4` – Proje tanıtım videosu
+- `mars_kolonisi.mp4` – Proje tanıtım videosu
 - `README.md` – Proje açıklama dosyası
 
 ## 📝 Sonuç
